@@ -10,10 +10,12 @@ This repository features technical documentation and showcase of development of 
 
 ## Core System 
 1. Players Tracking & Data Mapping
-Real-time position and orientation data is captured for each player. Then processed and normalized in selected game engine. 
+2. 
+Real-time position and orientation data is captured for each player. Then processed and normalized in selected game engine.
+
 !Developed ia a way thet each player receives a persistent ID that remains consistent across the entire show.This ensures that a player is always “the same person” across all systems and game states.
 
-2. Interaction Logic Framework
+4. Interaction Logic Framework
 
 
 
