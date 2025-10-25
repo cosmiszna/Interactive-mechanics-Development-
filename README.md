@@ -8,17 +8,31 @@ This repository features technical documentation and showcase of development of 
 ## Demo (Short)
 *(You'll add GIFs here later)*
 
-## Core System 
+## Development of Core System 
 1. Players Tracking & Data Mapping
-2. 
+ 
 Real-time position and orientation data is captured for each player. Then processed and normalized in selected game engine.
+Developed in a a way that each player receives a persistent ID that remains consistent across the entire show.
 
-!Developed ia a way thet each player receives a persistent ID that remains consistent across the entire show.This ensures that a player is always “the same person” across all systems and game states.
+2. Interaction Logic Framework inside Game Engine 
+ - Individual player tracking data
+ - Proccesed Average position of all players - developed into 3 main navigation principles, that applies to different gameplays
 
-4. Interaction Logic Framework
+This framework allows:
+- One-player mechanics
+- Multi-player cooperative behaviors
+- Global environment state changes
+- Adaptive difficulty based on group dynamic
+**Developed Framework is a core to create various interactive mechanics.**
 
+3. In Unreal Engine Tecnical architecture build to keep core development structure for all games
+- Master components / Controls
+- Game Mechanic Components
+With Plastic SCM we developed a workflow where we start to work with Master Project that has fundamental components for various game mechanics. IN this way if some of the main components chanee it changes across every other project
 
-
+4. SHOW RUNNER
+   -With nDisplay outputing content in 4K resolution to test space. Reached FPS 50-60 on one RTX 4090. 
+   
 
 ## Key Mechanics
 ### Mechanic 1 — *Name*
@@ -28,7 +42,7 @@ Real-time position and orientation data is captured for each player. Then proces
 
 *(GIF placeholder)*
 
-### Mechanic 2 — *Name*
+### Mechanic 2 — **
 *(Same structure)*
 
 ## Samples
