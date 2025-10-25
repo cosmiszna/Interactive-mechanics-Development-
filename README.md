@@ -15,3 +15,28 @@ Insert 3–5 sentences describing:
 *(You'll add GIFs here later)*
 
 ## Architecture (High-Level)
+
+
+## Key Mechanics
+### Mechanic 1 — *Name*
+- Why this mechanic exists
+- How it works (short)
+- Parameters that matter
+
+*(GIF placeholder)*
+
+### Mechanic 2 — *Name*
+*(Same structure)*
+
+## Samples
+| File | Description |
+|------|-------------|
+| `samples/touchdesigner/ExampleModule.tox` | Self-contained example (to be added). |
+
+## Tech Stack
+- TouchDesigner (version)
+- Controllers / Sensory input (if any)
+- OS / Hardware notes
+
+## Credits
+Your Name • Year
