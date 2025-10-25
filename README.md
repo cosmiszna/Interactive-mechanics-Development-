@@ -5,16 +5,17 @@ This repository features technical documentation and showcase of development of 
 > The **primary goal** of this repo is to showcase the technical and interactive mechanics, not to publish full source code.
 
 
-## Overview
-Insert 3–5 sentences describing:
-- What the project is
-- Where it runs (TouchDesigner + hardware / live show / game, etc.)
-- What the interaction feels like
-
 ## Demo (Short)
 *(You'll add GIFs here later)*
 
-## Architecture (High-Level)
+## Core System 
+1. Players Tracking & Data Mapping
+Real-time position and orientation data is captured for each player. Then processed and normalized in selected game engine. 
+!Developed ia a way thet each player receives a persistent ID that remains consistent across the entire show.This ensures that a player is always “the same person” across all systems and game states.
+
+2. Interaction Logic Framework
+
+
 
 
 ## Key Mechanics
