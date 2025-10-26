@@ -55,7 +55,7 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
 ## Higlighted dev mechanics
     -RnD of navigation principles
     <p align="center">
-  <img src="media/gifs/NVM2.gif" width="600">
+  <img src="media/gifs/NVM2.gif" width="800">
 </p>
 [▶ Watch Full Demo Video](media/videos/NVM2.mp4)
     
