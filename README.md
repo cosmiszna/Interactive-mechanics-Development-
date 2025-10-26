@@ -50,7 +50,8 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
 - Combinig with position ddata and blueprit coding
  
 ### Developed toolset in Unreal Engine for immersive scene previsualization
-![Projection Tec Art](media/gifs/IntroTechart.gif)
+<p align="center">
+  <img src="media/gifs/IntroTechart.gif" width="450" />
    
 ## Higlighted dev mechanics
 
