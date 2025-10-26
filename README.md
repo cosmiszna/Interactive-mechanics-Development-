@@ -66,14 +66,9 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
   <img src="media/gifs/nvmcp2dg.gif" width="320" />
 </p>
 
-    -Metasound and chain reaction to make a drummachine
-
-    
+    -Metasound and chain reaction between players
     -Real time vertex paint and shader dev
 
-
-### Mechanic 2 — **
-*(Same structure)*
 
 ## Touch Designer
 I defined which gaming experience should be build in which engine from the optimization and performance perspective,
