@@ -54,7 +54,7 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
    
 ## Higlighted dev mechanics
 
-![dev mechanic1] (img src="media/gifs/NVM2.gif")
+![dev mechanic1](media/gifs/nvnso.gif)(media/gifs/NVNdg.gif)
 
 
 
