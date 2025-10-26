@@ -3,7 +3,9 @@ This repository features technical dev showcase of interactions and gameplay mec
 
 > This repository documents the interactive mechanics and technical design.  
 > The **primary goal** of this repo is to showcase the technical and interactive mechanics, featurimg the role of developer.
-> [![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/diana-bohutska-4a0663206/)]
 
 
 ## Demo (Short)
