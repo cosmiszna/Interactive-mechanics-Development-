@@ -1,4 +1,4 @@
-<h1>Interactive mechanics Development </h1>
+<h1>Interactive Mechanics Development </h1>
 
 This repository features technical dev showcase of interactions and gameplay mechanics for spatial immersive cubic space. Set of games developed with Unreal Engine and Touch Designer.   
 
