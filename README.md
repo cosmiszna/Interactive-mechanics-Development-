@@ -7,6 +7,8 @@ This repository features technical dev showcase of interactions and gameplay mec
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diana-bohutska-4a0663206/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=safari&logoColor=white)](https://readymag.website/u3945815658/4699220/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/64xram/)
 
 
@@ -74,4 +76,4 @@ A few interactive experiences build in the Touch Designer using Python to write 
 
 
 ## Credits
-Your Name • Year
+Diana Bohutska • 2025
