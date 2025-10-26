@@ -5,7 +5,7 @@ This repository features technical dev showcase of interactions and gameplay mec
 > The **primary goal** of this repo is to showcase the technical and interactive mechanics, featurimg the role of developer.
 
 
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/diana-bohutska-4a0663206/)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diana-bohutska-4a0663206/)
 
 
 ## Demo (Short)
