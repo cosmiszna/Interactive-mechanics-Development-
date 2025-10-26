@@ -7,8 +7,8 @@ This repository features technical dev showcase of interactions and gameplay mec
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diana-bohutska-4a0663206/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=safari&logoColor=white)](https://readymag.website/u3945815658/4699220/)
-[![Instagram](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://www.instagram.com/64xram/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://readymag.website/u3945815658/4699220/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/64xram/)
 
 
 ## Demo (Short)
