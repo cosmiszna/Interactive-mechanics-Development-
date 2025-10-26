@@ -12,7 +12,9 @@ This repository features technical dev showcase of interactions and gameplay mec
 
 
 ## Demo (Short)
+<div align="center">
 ![Demo](media/gifs/Demo.gif)
+</div>
 
 
 ## Development of Core System 
