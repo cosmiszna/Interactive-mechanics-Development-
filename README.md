@@ -53,11 +53,11 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
 ![Projection Tec Art](media/gifs/IntroTechart.gif)
    
 ## Higlighted dev mechanics
-<p align="center">
+
   <img src="media/gifs/NVM2.gif" width="600" />
-   <img src="media/gifs/NVMdg.gif" width="600" />
-   <img src="media/gifs/NVMso.gif" width="600" />
-</p>
+  <img src="media/gifs/NVMdg.gif" width="600" />
+ <img src="media/gifs/NVMso.gif" width="600" />
+
 
     
 RnD of the core game mechanics 
