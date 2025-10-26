@@ -1,8 +1,8 @@
 # Interactive-mechanics-Development-
-This repository features technical documentation and showcase of development of interactions and gameplay mechanics for spatial immersive cubic space. Set of games developed with Unreal Engine and Touch Designer.   
+This repository features technical dev showcase of interactions and gameplay mechanics for spatial immersive cubic space. Set of games developed with Unreal Engine and Touch Designer.   
 
-> This repository documents the interactive mechanics and technical design behind the project.  
-> The **primary goal** of this repo is to showcase the technical and interactive mechanics, not to publish full source code.
+> This repository documents the interactive mechanics and technical design.  
+> The **primary goal** of this repo is to showcase the technical and interactive mechanics, featurimg the role of developer.
 
 
 ## Demo (Short)
@@ -31,8 +31,17 @@ This framework allows:
 - Game Mechanic Components
 
 
-4. SHOW RUNNER
-   -With nDisplay outputing content in 4K resolution to test space. Reached FPS 50-60 on one RTX 4090. 
+4. SHOW RUNN
+   -With nDisplay outputing content in 4K resolution to test space. Reached FPS 50-60 on one RTX 4090.
+
+  ## Technical Art for spatial gaming and previsualizations
+Development of spatial games in Unreal Engine requries RnD of the technical art as well, working with the shader, finding out a solutions that will work for Spatial immersive enviropment.
+- Shader that work with real time Vertex Paint 
+- Materials, VFX that works and looks cool with nDisaplay rendering
+- Combinig with position ddata and blueprit coding
+ 
+### Developed toolset in Unreal Engine for immersive scene previsualization
+![Projection Tec Art](media/gifs/IntroTechart.gif)
    
 
 ## Key Mechanics
@@ -51,9 +60,7 @@ This framework allows:
 |------|-------------|
 | `samples/touchdesigner/ExampleModule.tox` | Self-contained example (to be added). |
 
-Technical Art for prevsualizations
-Developed toolset in Unreal Engine for scene previsualization
-![Projection Tec Art](media/gifs/IntroTechart.gif)
+
 
 ## Tech Stack
 - TouchDesigner (version)
