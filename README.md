@@ -8,7 +8,7 @@ This repository features technical dev showcase of interactions and gameplay mec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diana-bohutska-4a0663206/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://readymag.website/u3945815658/4699220/)
-[![Gmail]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](dianabohutska171099@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dianabohutska171099@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/64xram/)
 
 
