@@ -6,7 +6,7 @@ This repository features technical documentation and showcase of development of 
 
 
 ## Demo (Short)
-![Demo](meida/gifs/IntroTechart.gif)
+![Demo](media/gifs/IntroTechart.gif)
 
 
 ## Development of Core System 
