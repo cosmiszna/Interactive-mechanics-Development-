@@ -26,10 +26,10 @@ This framework allows:
 - Adaptive difficulty based on group dynamic
 **Developed Framework is a core to create various interactive mechanics.**
 
-3. In Unreal Engine Tecnical architecture build to keep core development structure for all games
+3. In Unreal Engine Tecnical architecture builded to keep core development structure modular or same across games.If there is a change in master project it waill aplly to any other developed game gameproject. 
 - Master components / Controls
 - Game Mechanic Components
-With Plastic SCM we developed a workflow where we start to work with Master Project that has fundamental components for various game mechanics. IN this way if some of the main components chanee it changes across every other project
+
 
 4. SHOW RUNNER
    -With nDisplay outputing content in 4K resolution to test space. Reached FPS 50-60 on one RTX 4090. 
