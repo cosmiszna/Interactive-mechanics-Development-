@@ -1,9 +1,10 @@
-
-# Interactive-mechanics-Development-
+<h1>Interactive mechanics Development 1</h1>
+# Interactive mechanics Development
 This repository features technical dev showcase of interactions and gameplay mechanics for spatial immersive cubic space. Set of games developed with Unreal Engine and Touch Designer.   
 
 > This repository documents the interactive mechanics and technical design.  
 > The **primary goal** of this repo is to showcase the technical and interactive mechanics, featurimg the role of developer.
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diana-bohutska-4a0663206/)
