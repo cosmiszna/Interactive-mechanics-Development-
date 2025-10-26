@@ -6,7 +6,7 @@ This repository features technical documentation and showcase of development of 
 
 
 ## Demo (Short)
-![Demo](media/gifs/IntroTechart.gif)
+![Demo](media/gifs/Demo.gif)
 
 
 ## Development of Core System 
@@ -50,6 +50,10 @@ With Plastic SCM we developed a workflow where we start to work with Master Proj
 | File | Description |
 |------|-------------|
 | `samples/touchdesigner/ExampleModule.tox` | Self-contained example (to be added). |
+
+Technical Art for prevsualizations
+Developed toolset in Unreal Engine for scene previsualization
+![Projection Tec Art](media/gifs/IntroTechart.gif)
 
 ## Tech Stack
 - TouchDesigner (version)
