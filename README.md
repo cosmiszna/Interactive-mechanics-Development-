@@ -19,7 +19,7 @@ This repository features technical dev showcase of interactions and gameplay mec
 </p>
 
 
-
+<h3>Development of Core System </h3>
 ## Development of Core System 
 1. Players Tracking & Data Mapping
  
