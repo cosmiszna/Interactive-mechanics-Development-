@@ -43,6 +43,11 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
 ### Developed toolset in Unreal Engine for immersive scene previsualization
 ![Projection Tec Art](media/gifs/IntroTechart.gif)
    
+## Higlighted dev mechanics
+RnD of navigation principles
+RnD of the core game mechanics 
+Metasound and chain reaction to make a drummachine
+real time vertex paint and shader dev
 
 ## Key Mechanics
 ### Mechanic 1 — *Name*
@@ -55,7 +60,9 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
 ### Mechanic 2 — **
 *(Same structure)*
 
-## Samples
+## Touch Designer
+I defined which gaming experience should be build in which engine from the optimization and performance perspective,
+A few interactive experiences build in the Touch Designer using Python to write a logic. (appears it is the best approach) 
 | File | Description |
 |------|-------------|
 | `samples/touchdesigner/ExampleModule.tox` | Self-contained example (to be added). |
