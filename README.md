@@ -66,10 +66,10 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
   <img src="media/gifs/nvmcp2dg.gif" width="320" />
 </p>
 
+    -Metasound and chain reaction to make a drummachine
+
     
-RnD of the core game mechanics 
-Metasound and chain reaction to make a drummachine
-real time vertex paint and shader dev
+    -Real time vertex paint and shader dev
 
 
 ### Mechanic 2 — **
@@ -77,16 +77,12 @@ real time vertex paint and shader dev
 
 ## Touch Designer
 I defined which gaming experience should be build in which engine from the optimization and performance perspective,
-A few interactive experiences build in the Touch Designer using Python to write a logic. (appears it is the best approach) 
-| File | Description |
-|------|-------------|
-| `samples/touchdesigner/ExampleModule.tox` | Self-contained example (to be added). |
-
-
+A few interactive experiences build in the Touch Designer using Python to write a gaming logic. (appears it is the best approach) 
 
 ## Tech Stack
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?logo=unrealengine&logoColor=white)
 
-
+## Avarness
+This content is not to be published publically! Use only if you get a link from Author of the repo
 ## Credits
 Diana Bohutska • 2025
