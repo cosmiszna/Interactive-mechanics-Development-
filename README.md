@@ -6,6 +6,7 @@ This repository features technical dev showcase of interactions and gameplay mec
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diana-bohutska-4a0663206/)
+npm install react-icons
 import { SiGmail } from "react-icons/si";
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/64xram/)
 
