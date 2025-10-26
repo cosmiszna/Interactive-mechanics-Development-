@@ -54,17 +54,17 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
    
 ## Higlighted dev mechanics
 
-![dev mechanic1](media/gifs/nvnso.gif)(media/gifs/NVNdg.gif)
-
-
-
+    -RnD of the core game mechanics 
+    -RnD of the navigation principles
+<p align="center">
+  <img src="media/gifs/nvnso.gif" width="320" />
+  <img src="media/gifs/NVNdg.gif" width="320" />
+</p>
     
 RnD of the core game mechanics 
 Metasound and chain reaction to make a drummachine
 real time vertex paint and shader dev
 
-
-*(GIF placeholder)*
 
 ### Mechanic 2 — **
 *(Same structure)*
