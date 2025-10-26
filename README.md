@@ -6,7 +6,8 @@ This repository features technical documentation and showcase of development of 
 
 
 ## Demo (Short)
-*(You'll add GIFs here later)*
+![Demo](meida/gifs/IntroTechart.gif)
+
 
 ## Development of Core System 
 1. Players Tracking & Data Mapping
