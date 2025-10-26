@@ -3,6 +3,7 @@ This repository features technical dev showcase of interactions and gameplay mec
 
 > This repository documents the interactive mechanics and technical design.  
 > The **primary goal** of this repo is to showcase the technical and interactive mechanics, featurimg the role of developer.
+> [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 ## Demo (Short)
@@ -36,7 +37,7 @@ This framework allows:
 
   ## Technical Art for spatial gaming and previsualizations
 Development of spatial games in Unreal Engine requries RnD of the technical art as well, working with the shader, finding out a solutions that will work for Spatial immersive enviropment.
-- Shader that work with real time Vertex Paint 
+- Shader that work with the interaction logic
 - Materials, VFX that works and looks cool with nDisaplay rendering
 - Combinig with position ddata and blueprit coding
  
