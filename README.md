@@ -60,6 +60,12 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
   <img src="media/gifs/nvnso.gif" width="320" />
   <img src="media/gifs/NVNdg.gif" width="320" />
 </p>
+
+<p align="center">
+  <img src="media/gifs/nvmcp1sp.gif" width="320" />
+  <img src="media/gifs/nvmcp2dg.gif" width="320" />
+</p>
+
     
 RnD of the core game mechanics 
 Metasound and chain reaction to make a drummachine
