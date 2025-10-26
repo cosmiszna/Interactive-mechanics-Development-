@@ -54,11 +54,6 @@ RnD of the core game mechanics
 Metasound and chain reaction to make a drummachine
 real time vertex paint and shader dev
 
-## Key Mechanics
-### Mechanic 1 — *Name*
-- Why this mechanic exists
-- How it works (short)
-- Parameters that matter
 
 *(GIF placeholder)*
 
@@ -75,9 +70,8 @@ A few interactive experiences build in the Touch Designer using Python to write 
 
 
 ## Tech Stack
-- TouchDesigner (version)
-- Controllers / Sensory input (if any)
-- OS / Hardware notes
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?logo=unrealengine&logoColor=white)
+
 
 ## Credits
 Your Name • Year
