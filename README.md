@@ -53,7 +53,12 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
 ![Projection Tec Art](media/gifs/IntroTechart.gif)
    
 ## Higlighted dev mechanics
-RnD of navigation principles
+    -RnD of navigation principles
+    <p align="center">
+  <img src="media/gifs/NVM2.gif" width="600">
+</p>
+[▶ Watch Full Demo Video](media/videos/NVM2.mp4)
+    
 RnD of the core game mechanics 
 Metasound and chain reaction to make a drummachine
 real time vertex paint and shader dev
