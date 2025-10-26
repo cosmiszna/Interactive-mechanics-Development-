@@ -18,28 +18,26 @@ This repository features technical dev showcase of interactions and gameplay mec
   <img src="media/gifs/Demo.gif" alt="Demo" />
 </p>
 
-
-<h3>Development of Core System </h3>
-## Development of Core System 
+### Development of Core System 
 1. Players Tracking & Data Mapping
  
 Real-time position and orientation data is captured for each player. Then processed and normalized in selected game engine.
 Developed in a a way that each player receives a persistent ID that remains consistent across the entire show.
 
 2. Interaction Logic Framework inside Game Engine 
- - Individual player tracking data
- - Proccesed Average position of all players - developed into 3 main navigation principles, that applies to different gameplays
+     - Individual player tracking data
+   - Proccesed Average position of all players - developed into 3 main navigation principles, that applies to different gameplays
 
 This framework allows:
-- One-player mechanics
-- Multi-player cooperative behaviors
-- Global environment state changes
-- Adaptive difficulty based on group dynamic
+    - One-player mechanics
+    - Multi-player cooperative behaviors
+    - Global environment state changes
+    - Adaptive difficulty based on group dynamic
 **Developed Framework is a core to create various interactive mechanics.**
 
 3. In Unreal Engine Tecnical architecture builded to keep core development structure modular or same across games.If there is a change in master project it waill aplly to any other developed game gameproject. 
-- Master components / Controls
-- Game Mechanic Components
+    - Master components / Controls
+    - Game Mechanic Components
 
 
 4. SHOW RUNN
