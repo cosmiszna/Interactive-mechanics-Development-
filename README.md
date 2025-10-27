@@ -96,6 +96,6 @@ A few interactive experiences build in the Touch Designer using Python to write 
 
 ## Avarness
 This content is not intended for public release.
-Use or share only if you received the link directly from the author of this repository.
+Use only if you received the link directly from the author of this repository.
 ## Credits
 Diana Bohutska • 2025
