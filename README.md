@@ -77,8 +77,12 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
   <img src="media/gifs/nvmcp2dg.gif" width="320" />
 </p>
 
-    -Metasound and chain reaction between players
     -Real time vertex paint and shader dev
+
+    <p align="center">
+  <img src="media/gifs/mechanics_3.gif" width="320" />
+  <img src="media/gifs/mechanics_8.gif" width="320" />
+</p>
 
 
 ## Touch Designer
