@@ -18,10 +18,6 @@ This repository features technical dev showcase of interactions and gameplay mec
 
 • Collaborate with creative and technical directors to translate artistic concepts into interactive gaming system.
 
-## Demo (Short)
-<p align="center">
-  <img src="media/gifs/Demo.gif" alt="Demo" />
-</p>
 
 ### Development of Core System 
 1. Players Tracking & Data Mapping
@@ -43,7 +39,6 @@ This framework allows:
 3. In Unreal Engine Tecnical architecture builded to keep core development structure modular and shared across all game variations. Any updates made in the master project propagate automatically to all derived game projects. 
     - Master components / Controls
     - Game Mechanic Components
-      
       This ensures consistency, reduces duplication.
 
 
@@ -57,8 +52,6 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
 - Combinig with position data and blueprint coding
  
 ### Developed toolset in Unreal Engine for immersive scene previsualization
-<p align="center">
-  <img src="media/gifs/IntroTechart.gif" width="450" />
 
   For previsualizations I  worked with the various CG pipelines including animation, shaders in UE, rendering.
    
@@ -66,23 +59,7 @@ Development of spatial games in Unreal Engine requries RnD of the technical art 
 
     -RnD of the core game mechanics 
     -RnD of the navigation principles
-<p align="center">
-  <img src="media/gifs/nvnso.gif" width="320" />
-  <img src="media/gifs/NVNdg.gif" width="320" />
-</p>
-
-<p align="center">
-  <img src="media/gifs/nvmcp1sp.gif" width="320" />
-  <img src="media/gifs/nvmcp2dg.gif" width="320" />
-</p>
-
     -Real time vertex paint and shader dev
-
-  <p align="center">
-  <img src="media/gifs/mechanics_3.gif" width="320" />
-  <img src="media/gifs/mechanics_8.gif" width="320" />
-</p>
-
 
 ## Touch Designer
 One of the important task in the development was to define which gaming experience should be build in which engine from the optimization and performance perspective,
