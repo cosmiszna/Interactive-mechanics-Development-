@@ -11,7 +11,9 @@ This repository showcases the technical development of interactions and gameplay
 [![Gmail](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail&logoColor=white)](mailto:dboh.contact@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/64xram/)
 
-• In collaboration with creative and technical directors, we created a multiplayer immersive gaming experience. My role was to design and develop the core gameplay system, game mechanics, and interactive behaviours. All within a strong focus on real-time interaction, player systems, and multiplayer logic. 
+My role was:
+
+• to design and develop the core gameplay system, game mechanics, and interactive behaviours. All within a strong focus on real-time interaction, player systems, and multiplayer logic. 
 
 • Developed and implemented real-time interactive pipelines in Unreal Engine and TouchDesigner, integrating tracking systems and sensor data to achieve stable, low-latency interaction behavior.
 
